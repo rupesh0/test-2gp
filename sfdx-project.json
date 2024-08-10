@@ -6,7 +6,7 @@
     }
   ],
   "name": "test2GP",
-  "namespace": "",
+  "namespace": "rupesh_onegp",
   "sfdcLoginUrl": "https://login.salesforce.com",
   "sourceApiVersion": "61.0"
 }
