@@ -2,11 +2,18 @@
   "packageDirectories": [
     {
       "path": "force-app",
-      "default": true
+      "default": true,
+      "package": "Rupesh 2 GP",
+      "versionName": "Winter 2025",
+      "versionNumber": "0.1.0.NEXT",
+      "versionDescription": ""
     }
   ],
   "name": "test2GP",
   "namespace": "rupesh_onegp",
   "sfdcLoginUrl": "https://login.salesforce.com",
-  "sourceApiVersion": "61.0"
+  "sourceApiVersion": "61.0",
+  "packageAliases": {
+    "Rupesh 2 GP": "0HodM0000000JXJSA2"
+  }
 }
