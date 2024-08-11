@@ -11,6 +11,12 @@
         <type>Region</type>
     </flexiPageRegions>
     <flexiPageRegions>
+        <itemInstances>
+            <componentInstance>
+                <componentName>dummyLwcComponent</componentName>
+                <identifier>Dummy1234_dummyLwcComponent</identifier>
+            </componentInstance>
+        </itemInstances>
         <name>region2</name>
         <type>Region</type>
     </flexiPageRegions>
