@@ -30,7 +30,7 @@ global with sharing class BlogService {
 
     global static void createBlog(String name, String content, String title, String author) {
         Blog__c newBlog = new Blog__c();
-        newBlog.put('Name', name);
+    //    newBlog.put('Name', name);
         newBlog.put('Content__c', content);
         newBlog.put('Title__c', title);
         newBlog.put('Author__c', author);
